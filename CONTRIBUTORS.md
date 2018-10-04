@@ -2432,3 +2432,8 @@ Noida
 - Place: Jakarta, Indonesia
 - Bio: Backend developer
 - Github: [abbusofyan](https://github.com/abbusofyan)
+
+#### Name: [nigeldelviero](https://github.com/nigeldelviero)
+- Place: Jakarta, Indonesia
+- Bio: Web developer
+- Github: [nigeldelviero](https://github.com/nigeldelviero)
